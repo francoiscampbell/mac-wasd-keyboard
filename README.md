@@ -3,8 +3,8 @@ Apple Keyboard Layout for WASD V2 Keyboards
 
 Custom Mac ANSI-104 and ISO-105 keyboard layouts that aim to reproduce the modern Apple Keyboard layout suitable for use with a WASD V2 keyboard or similar.
 
-![Preview](https://raw.github.com/rswail/mac-wasd-keyboard/master/custom-mac-layout-104.png)
-![Preview](https://raw.github.com/rswail/mac-wasd-keyboard/master/custom-mac-layout-105.png)
+![Preview](custom-mac-layout-104.png)
+![Preview](custom-mac-layout-105.png)
 
 Features
 ========
