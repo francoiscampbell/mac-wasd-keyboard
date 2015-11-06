@@ -1,9 +1,10 @@
 Apple Keyboard Layout for WASD V2 Keyboards
 ===========================================
 
-A custom Mac keyboard layout that aims to reproduce the modern Apple Keyboard layout suitable for use with a WASD V2 keyboard or similar.
+Custom Mac ANSI-104 and ISO-105 keyboard layouts that aim to reproduce the modern Apple Keyboard layout suitable for use with a WASD V2 keyboard or similar.
 
-![Preview](https://raw.github.com/aasmith/mac-wasd-keyboard/master/custom-mac-layout.png)
+![Preview](https://raw.github.com/rswail/mac-wasd-keyboard/master/custom-mac-layout-104.png)
+![Preview](https://raw.github.com/rswail/mac-wasd-keyboard/master/custom-mac-layout-105.png)
 
 Features
 ========
@@ -17,6 +18,10 @@ Based on the Mac layout provided by WASD Keyboards, this layout contains the fol
 * Fn key in place of insert.
 * Enter key text is right-aligned.
 
+* Updated to 2015 templates
+* F3 (Mission Control) and F4 (Launchpad) icons updated
+* delete icon added to keypad delete key
+
 Details
 =======
 
@@ -27,6 +32,8 @@ Details
 * The option and control icons are customized to match the rest of the font
   aesthetic.
 * Pg Up/Pg Down have been expanded to Page Up/Page Down.
+
+* Mission Control and Launchpad icons from WASD artwork.
 
 Font on most keys is VAG Rounded Light 11. Functions keys are size 10.
 Multi-line keys (page up/down) are centered with line spacing 0.97.
@@ -44,9 +51,9 @@ Outstanding Issues
 Included Files
 ==============
 
-* `custom-mac-layout.svg` The custom layout.
+* `custom-mac-layout-104.svg` and `custom-mac-layout-105.svg` The custom layouts.
    Activate layer "Alpha Mac" to see the layout.
-* `wasd-inkscape-104-10.15.2014.svg` The WASD-provided keyboard template.
+* `wasd-inkscape-*-2015.svg` The WASD-provided keyboard templates.
 * `wasd-keysizes.png` Key sizes used on WASD V2 104 key.
 
 Resources
