@@ -6,7 +6,14 @@ Custom Mac ANSI-104 and ISO-105 keyboard layouts that aim to reproduce the moder
 Layouts
 =======
 
+ANSI
+----
+
 ![ANSI-104 layout](custom-mac-layout-104.png)
+
+ISO
+---
+
 ![ISO-105 layout](custom-mac-layout-105.png)
 
 Features
@@ -41,6 +48,8 @@ Details
 Font on most keys is VAG Rounded Light 11. Functions keys are size 10.
 Multi-line keys (page up/down) are centered with line spacing 0.97.
 
+Activate layer "Alpha - US QWERTY Mac" to see the layout.
+
 Outstanding Issues
 ==================
 
@@ -55,7 +64,6 @@ Included Files
 ==============
 
 * `custom-mac-layout-104.svg` and `custom-mac-layout-105.svg` The custom layouts.
-   Activate layer "Alpha Mac" to see the layout.
 * `wasd-inkscape-*-2015.svg` The WASD-provided keyboard templates.
 * `wasd-keysizes.png` Key sizes used on WASD V2 104 key.
 
