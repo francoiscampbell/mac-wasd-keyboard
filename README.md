@@ -3,8 +3,11 @@ Apple Keyboard Layout for WASD V2 Keyboards
 
 Custom Mac ANSI-104 and ISO-105 keyboard layouts that aim to reproduce the modern Apple Keyboard layout suitable for use with a WASD V2 keyboard or similar.
 
-![Preview](custom-mac-layout-104.png)
-![Preview](custom-mac-layout-105.png)
+Layouts
+=======
+
+![ANSI-104 layout](custom-mac-layout-104.png)
+![ISO-105 layout](custom-mac-layout-105.png)
 
 Features
 ========
@@ -18,7 +21,8 @@ Based on the Mac layout provided by WASD Keyboards, this layout contains the fol
 * Fn key in place of insert.
 * Enter key text is right-aligned.
 
-* Updated to 2015 templates
+Updates for 2015 templates
+
 * F3 (Mission Control) and F4 (Launchpad) icons updated
 * delete icon added to keypad delete key
 
@@ -32,8 +36,7 @@ Details
 * The option and control icons are customized to match the rest of the font
   aesthetic.
 * Pg Up/Pg Down have been expanded to Page Up/Page Down.
-
-* Mission Control and Launchpad icons from WASD artwork.
+* Mission Control, Launchpad and delete icons from WASD artwork.
 
 Font on most keys is VAG Rounded Light 11. Functions keys are size 10.
 Multi-line keys (page up/down) are centered with line spacing 0.97.
