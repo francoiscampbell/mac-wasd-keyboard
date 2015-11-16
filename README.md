@@ -10,11 +10,13 @@ ANSI
 ----
 
 ![ANSI-104 layout](custom-mac-layout-104.png)
+![ANSI-104 karabiner](custom-mac-layout-104-karabiner.png)
 
 ISO
 ---
 
 ![ISO-105 layout](custom-mac-layout-105.png)
+![ISO-105 layout](custom-mac-layout-105-karabiner.png)
 
 Features
 ========
@@ -64,6 +66,7 @@ Included Files
 ==============
 
 * `custom-mac-layout-104.svg` and `custom-mac-layout-105.svg` The custom layouts.
+* `custom-mac-layout-104-karabiner.svg` and `custom-mac-layout-105-karabiner.svg` The keysettings to make the keys work.
 * `wasd-inkscape-*-2015.svg` The WASD-provided keyboard templates.
 * `wasd-keysizes.png` Key sizes used on WASD V2 104 key.
 
@@ -72,3 +75,4 @@ Resources
 
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 * [WASD Keyboards](http://www.wasdkeyboards.com)
+* [Karabiner](https://pqrs.org/osx/karabiner/)
