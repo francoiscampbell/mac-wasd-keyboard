@@ -16,7 +16,7 @@ ISO
 ---
 
 ![ISO-105 layout](custom-mac-layout-105.png)
-![ISO-105 layout](custom-mac-layout-105-karabiner.png)
+![ISO-105 karabiner](custom-mac-layout-105-karabiner.png)
 
 Features
 ========
